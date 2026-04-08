@@ -1,0 +1,70 @@
+services:
+  mysql:
+    image: mysql:8.4
+    container_name: calligraphy-rag-mysql
+    restart: unless-stopped
+    environment:
+      MYSQL_ROOT_PASSWORD: ${DB_PASSWORD:-YOUR_DB_PASSWORD}
+      MYSQL_DATABASE: ${DB_NAME:-calligraphy_rag}
+    command:
+      - --character-set-server=utf8mb4
+      - --collation-server=utf8mb4_unicode_ci
+    ports:
+      - "3307:3306"
+    volumes:
+      - mysql_data:/var/lib/mysql
+    healthcheck:
+      test: ["CMD", "mysqladmin", "ping", "-h", "127.0.0.1", "-p${DB_PASSWORD:-YOUR_DB_PASSWORD}"]
+      interval: 10s
+      timeout: 5s
+      retries: 10
+
+  backend:
+    build:
+      context: .
+      dockerfile: backend/Dockerfile
+    container_name: calligraphy-rag-backend
+    restart: unless-stopped
+    depends_on:
+      mysql:
+        condition: service_healthy
+    environment:
+      APP_NAME: ${APP_NAME:-Calligraphy RAG Backend}
+      APP_VERSION: ${APP_VERSION:-0.1.0}
+      API_PREFIX: ${API_PREFIX:-/api/v1}
+      APP_DEBUG: ${APP_DEBUG:-false}
+      DB_DRIVER: ${DB_DRIVER:-pymysql}
+      DB_HOST: mysql
+      DB_PORT: 3306
+      DB_NAME: ${DB_NAME:-calligraphy_rag}
+      DB_USER: ${DB_USER:-root}
+      DB_PASSWORD: ${DB_PASSWORD:-YOUR_DB_PASSWORD}
+      DB_CHARSET: ${DB_CHARSET:-utf8mb4}
+      DB_COLLATION: ${DB_COLLATION:-utf8mb4_unicode_ci}
+      DB_ECHO: ${DB_ECHO:-false}
+      DB_POOL_PRE_PING: ${DB_POOL_PRE_PING:-true}
+      RAG_CHUNK_SIZE: ${RAG_CHUNK_SIZE:-260}
+      RAG_CHUNK_OVERLAP: ${RAG_CHUNK_OVERLAP:-60}
+      RETRIEVAL_TOP_K: ${RETRIEVAL_TOP_K:-4}
+      EMBEDDING_DIMENSIONS: ${EMBEDDING_DIMENSIONS:-24}
+      EMBEDDING_PROVIDER: ${EMBEDDING_PROVIDER:-hashed-demo}
+      EMBEDDING_MODEL: ${EMBEDDING_MODEL:-hash-embedding-v1}
+      QWEN_API_BASE: ${QWEN_API_BASE:-}
+      QWEN_API_KEY: ${QWEN_API_KEY:-}
+      QWEN_MODEL: ${QWEN_MODEL:-qwen-plus}
+      QWEN_TEMPERATURE: ${QWEN_TEMPERATURE:-0.2}
+      QWEN_TIMEOUT_SECONDS: ${QWEN_TIMEOUT_SECONDS:-20}
+      API_AUTH_ENABLED: ${API_AUTH_ENABLED:-true}
+      API_AUTH_HEADER_NAME: ${API_AUTH_HEADER_NAME:-x-api-key}
+      API_AUTH_KEY: ${API_AUTH_KEY:-change_me_in_production}
+      API_AUTH_EXEMPT_PATHS: ${API_AUTH_EXEMPT_PATHS:-/docs,/openapi.json,/redoc,/api/v1/health}
+      RATE_LIMIT_ENABLED: ${RATE_LIMIT_ENABLED:-true}
+      RATE_LIMIT_REQUESTS: ${RATE_LIMIT_REQUESTS:-60}
+      RATE_LIMIT_WINDOW_SECONDS: ${RATE_LIMIT_WINDOW_SECONDS:-60}
+      RATE_LIMIT_EXEMPT_PATHS: ${RATE_LIMIT_EXEMPT_PATHS:-/docs,/openapi.json,/redoc,/api/v1/health}
+      SECURITY_ALERT_SLOW_REQUEST_MS: ${SECURITY_ALERT_SLOW_REQUEST_MS:-2000}
+    ports:
+      - "8000:8000"
+
+volumes:
+  mysql_data:

@@ -1,0 +1,168 @@
+[
+  {
+    "slug": "yan-style",
+    "name_cn": "颜体",
+    "name_en": "Yan Style",
+    "aliases": [],
+    "category": "style",
+    "definition": "颜体是唐代书法家颜真卿创立的楷书风格体系，与柳公权并称“颜柳”，以“颜筋柳骨”著称。",
+    "usage_notes": "其楷书突破初唐瘦硬风格，笔法融合篆籀，线条丰腴雄浑，结体宽博端庄。常见特征包括中锋运笔、横细竖粗、藏锋圆润、蚕头燕尾和外拓结构，整体气势浑厚磅礴。",
+    "source": "百度百科",
+    "source_url": "https://baike.baidu.com/item/%E9%A2%9C%E4%BD%93"
+  },
+  {
+    "slug": "regular-script",
+    "name_cn": "楷书",
+    "name_en": "Regular Script",
+    "aliases": [
+      "楷体",
+      "正楷",
+      "真书"
+    ],
+    "category": "script",
+    "definition": "楷书是汉字的标准字体，由隶书演变而来，形体方正、笔画平直，被视为书写楷模。",
+    "usage_notes": "楷书发展大致分为隶楷、晋楷、魏楷、唐楷四个阶段。隋唐时期法度完备，唐代科举对“楷法遒美”的要求推动了楷书的普及和规范化。",
+    "source": "百度百科",
+    "source_url": "https://baike.baidu.com/item/%E6%A5%B7%E4%B9%A6/482941"
+  },
+  {
+    "slug": "running-script",
+    "name_cn": "行书",
+    "name_en": "Running Script",
+    "aliases": [
+      "行楷",
+      "行草"
+    ],
+    "category": "script",
+    "definition": "行书是介于草书和楷书之间的书体，比草书端庄，比正楷活泼，是书法艺术中兼具实用性与审美性的字体。",
+    "usage_notes": "行书是在楷书基础上形成的，因灵活多变而受到历代书法家重视。楷法多于草法的称为“行楷”，草法多于楷法的称为“行草”。",
+    "source": "百度百科",
+    "source_url": "https://baike.baidu.com/item/%E8%A1%8C%E4%B9%A6/472950"
+  },
+  {
+    "slug": "centered-tip",
+    "name_cn": "中锋",
+    "name_en": "Centered Tip",
+    "aliases": [
+      "正锋"
+    ],
+    "category": "technique",
+    "definition": "中锋是书法基本用笔术语，指行笔时将毛笔主锋保持在点画中线，使笔锋在笔画中心运行。",
+    "usage_notes": "中锋用笔通常要求笔杆尽量垂直于纸面。用此法写出的线条圆浑饱满、富有立体感，历来被视为书法用笔的核心准则。",
+    "source": "百度百科",
+    "source_url": "https://baike.baidu.com/item/%E4%B8%AD%E9%94%8B/9347334"
+  },
+  {
+    "slug": "concealed-tip",
+    "name_cn": "藏锋",
+    "name_en": "Concealed Tip",
+    "aliases": [
+      "逆锋",
+      "正锋"
+    ],
+    "category": "technique",
+    "definition": "藏锋是书法创作中的核心用笔技法之一，指起笔时通过逆势行笔将笔锋隐于笔画之内。",
+    "usage_notes": "其理论可追溯至王羲之“欲右先左，欲下先上”的用笔思想。藏锋能使线条呈现深厚圆润的质感，增强力度与含蓄之美，并常与露锋配合使用。",
+    "source": "百度百科",
+    "source_url": "https://baike.baidu.com/item/%E8%97%8F%E9%94%8B/16983097"
+  },
+  {
+    "slug": "side-tip",
+    "name_cn": "侧锋",
+    "name_en": "Side Tip",
+    "aliases": [],
+    "category": "technique",
+    "definition": "侧锋是指运笔时笔锋位置处于中锋与偏锋之间的一种用笔方法，是中锋用笔的重要补充。",
+    "usage_notes": "在以中锋为主的前提下适当使用侧锋，可使点画形态更加丰富并富于变化。古人有“正以取劲，侧以取妍”之说，侧锋常用于取势，势成后再转换为中锋。",
+    "source": "百度百科",
+    "source_url": "https://baike.baidu.com/item/%E4%BE%A7%E9%94%8B%E7%94%A8%E7%AC%94/878327"
+  },
+  {
+    "slug": "clerical-script",
+    "name_cn": "隶书",
+    "name_en": "Clerical Script",
+    "aliases": [
+      "汉隶"
+    ],
+    "category": "script",
+    "definition": "隶书由篆书简化演变而来，至东汉发展成熟，具有宽扁结体和波磔分明的典型特征。",
+    "usage_notes": "隶书常被概括为“蚕头雁尾”“一波三折”，在书法史上具有由篆入楷的重要过渡意义。与颜体中的“蚕头燕尾”不是同一概念。",
+    "source": "百度百科",
+    "source_url": "https://baike.baidu.com/item/%E6%B1%89%E9%9A%B6/5948244"
+  },
+  {
+    "slug": "cursive-script",
+    "name_cn": "草书",
+    "name_en": "Cursive Script",
+    "aliases": [
+      "章草",
+      "今草",
+      "狂草"
+    ],
+    "category": "script",
+    "definition": "草书是在隶书基础上为书写简便而发展出的书体，特点是结构简省、笔画连绵、笔势流动。",
+    "usage_notes": "草书可分为章草、今草、狂草等类型。介绍张旭、怀素等书家时经常需要与楷书、行书作风格对比。",
+    "source": "百度百科",
+    "source_url": "https://baike.baidu.com/item/%E8%8D%89%E4%B9%A6"
+  },
+  {
+    "slug": "seal-script",
+    "name_cn": "篆书",
+    "name_en": "Seal Script",
+    "aliases": [
+      "大篆",
+      "小篆"
+    ],
+    "category": "script",
+    "definition": "篆书是早期汉字书体的统称，保留较强的象形特征，通常包括大篆和小篆等形态。",
+    "usage_notes": "小篆在秦代得到规范，形体均匀齐整。篆书常作为讨论书法源流、笔法篆籀意味和隶变过程的重要基础术语。",
+    "source": "百度百科",
+    "source_url": "https://baike.baidu.hk/item/%E6%9B%B8%E6%B3%95%E5%9B%9B%E9%AB%94/2233494"
+  },
+  {
+    "slug": "lifting-and-pressing",
+    "name_cn": "提按",
+    "name_en": "Lifting and Pressing",
+    "aliases": [],
+    "category": "technique",
+    "definition": "提按是书法运笔中的基本控制方法，“提”使线条变细，“按”使线条变粗，是形成点画节奏与粗细变化的重要笔法。",
+    "usage_notes": "提按不是单次起落，而常常在一笔之中多次配合使用。它与中锋控制密切相关，在楷书、行书和行草书中都十分常见。",
+    "source": "百度百科TA说",
+    "source_url": "https://wapbaike.baidu.com/tashuo/browse/content?id=703153e26b9ca0c87b05f7c7"
+  },
+  {
+    "slug": "silkworm-head-and-swallow-tail",
+    "name_cn": "蚕头燕尾",
+    "name_en": "Silkworm Head and Swallow Tail",
+    "aliases": [],
+    "category": "technique",
+    "definition": "蚕头燕尾是书法术语，用来形容起笔厚重圆润如蚕头、收笔出锋舒展如燕尾的笔画形态。",
+    "usage_notes": "该术语常用于描述颜真卿楷书等书写特征。需与隶书中的“蚕头雁尾”区分，二者虽然名称相近，但所指书体和笔画语境不同。",
+    "source": "百度百科",
+    "source_url": "https://baike.baidu.com/item/%E8%9A%95%E5%A4%B4%E7%87%95%E5%B0%BE/3764768"
+  },
+  {
+    "slug": "outward-expansion",
+    "name_cn": "外拓",
+    "name_en": "Outward Expansion",
+    "aliases": [],
+    "category": "technique",
+    "definition": "外拓是书法术语，指意在纵放、向外开张的笔势或结体倾向，与内擫相对。",
+    "usage_notes": "外拓常用于分析王献之以及部分行草书风格，也常被用来概括颜体宽博开张的结构特征。讨论风格比较时可与“内擫”成对使用。",
+    "source": "书法空间",
+    "source_url": "http://9610.com/baike/cyshow.asp?id=7252"
+  },
+  {
+    "slug": "bone-force",
+    "name_cn": "骨力",
+    "name_en": "Bone Force",
+    "aliases": [
+      "骨法"
+    ],
+    "category": "aesthetic",
+    "definition": "骨力是书法术语，指点画中所蕴含的坚劲笔力，是构成字体筋骨和精神气象的重要因素。",
+    "usage_notes": "评价书法时常用“骨力”描述线条的刚劲、遒韧和支撑感。它通常来自有控制的用笔与行笔涩势，在分析颜体、柳体等楷书风格时尤其常见。",
+    "source": "百度百科TA说",
+    "source_url": "https://wapbaike.baidu.com/tashuo/browse/content?id=e8676af1a8f9b7b8aa1c62a4"
+  }
+]

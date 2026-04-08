@@ -1,0 +1,128 @@
+[
+  {
+    "slug": "wang-xizhi",
+    "name_cn": "王羲之",
+    "name_en": "Wang Xizhi",
+    "aliases": [
+      "王右军"
+    ],
+    "courtesy_name": "逸少",
+    "art_name": "",
+    "era": "东晋",
+    "birth_year": 303,
+    "death_year": 361,
+    "hometown": "琅邪临沂",
+    "primary_style": "行书",
+    "biography": "王羲之是东晋著名书法家，官至右军将军，世称王右军，被后世尊为“书圣”。",
+    "achievements": "兼善隶、草、楷、行各体，将章草、八分等书体发展为今草、行书、楷书，风格平和自然、笔势委婉含蓄，对后世书法影响深远。",
+    "representative_works": [
+      "兰亭集序",
+      "十七帖",
+      "快雪时晴帖",
+      "丧乱帖",
+      "黄庭经"
+    ],
+    "source": "维基百科",
+    "source_url": "https://zh.wikipedia.org/zh-cn/%E7%8E%8B%E7%BE%B2%E4%B9%8B"
+  },
+  {
+    "slug": "yan-zhenqing",
+    "name_cn": "颜真卿",
+    "name_en": "Yan Zhenqing",
+    "aliases": [
+      "颜鲁公"
+    ],
+    "courtesy_name": "清臣",
+    "art_name": "",
+    "era": "唐",
+    "birth_year": 709,
+    "death_year": 785,
+    "hometown": "京兆长安",
+    "primary_style": "楷书",
+    "biography": "颜真卿是唐代政治家、书法家，因封鲁郡公而人称颜鲁公，是中国书法史上最具代表性的楷书大家之一。",
+    "achievements": "其所创“颜体”对后世影响极大，楷书雄浑厚重、气象恢宏；同时以忠义刚正著称，在安史之乱中的事迹也使其人格与书风紧密相连。",
+    "representative_works": [
+      "多宝塔碑",
+      "祭侄文稿",
+      "颜勤礼碑",
+      "麻姑仙坛记"
+    ],
+    "source": "维基百科",
+    "source_url": "https://zh.wikipedia.org/zh-cn/%E9%A1%8F%E7%9C%9F%E5%8D%BF"
+  },
+  {
+    "slug": "ouyang-xun",
+    "name_cn": "欧阳询",
+    "name_en": "Ouyang Xun",
+    "aliases": [
+      "欧阳率更"
+    ],
+    "courtesy_name": "信本",
+    "art_name": "",
+    "era": "隋唐",
+    "birth_year": 557,
+    "death_year": 641,
+    "hometown": "潭州临湘",
+    "primary_style": "楷书",
+    "biography": "欧阳询是隋末唐初著名书法家，官至太子率更令、弘文馆学士，被誉为唐代四大书法家之一。",
+    "achievements": "其楷书笔力险劲、结构严整，自成“欧体”，有“楷书极则”之誉，对唐楷法度的建立影响深远。",
+    "representative_works": [
+      "九成宫醴泉铭",
+      "虞恭公碑",
+      "化度寺塔铭",
+      "皇甫诞碑",
+      "梦奠帖"
+    ],
+    "source": "维基百科",
+    "source_url": "https://zh.wikipedia.org/wiki/%E6%AC%A7%E9%98%B3%E8%AF%A2"
+  },
+  {
+    "slug": "liu-gongquan",
+    "name_cn": "柳公权",
+    "name_en": "Liu Gongquan",
+    "aliases": [],
+    "courtesy_name": "诚悬",
+    "art_name": "",
+    "era": "唐",
+    "birth_year": 778,
+    "death_year": 865,
+    "hometown": "京兆华原",
+    "primary_style": "楷书",
+    "biography": "柳公权是唐代中后期大书法家，历仕七朝，位至太子少傅，以楷书成就最为著名。",
+    "achievements": "他吸收颜真卿、欧阳询等人之长，自创“柳体”，以骨力劲健、结构严谨见长，与颜真卿并称“颜柳”，后世有“颜筋柳骨”之誉。",
+    "representative_works": [
+      "玄秘塔碑",
+      "神策军碑",
+      "金刚经刻石",
+      "李晟碑",
+      "蒙诏帖"
+    ],
+    "source": "维基百科",
+    "source_url": "https://zh.wikipedia.org/wiki/%E6%9F%B3%E5%85%AC%E6%AC%8A"
+  },
+  {
+    "slug": "zhao-mengfu",
+    "name_cn": "赵孟頫",
+    "name_en": "Zhao Mengfu",
+    "aliases": [
+      "赵承旨"
+    ],
+    "courtesy_name": "子昂",
+    "art_name": "松雪道人",
+    "era": "宋元",
+    "birth_year": 1254,
+    "death_year": 1322,
+    "hometown": "浙江湖州",
+    "primary_style": "行书",
+    "biography": "赵孟頫是南宋宗室后裔、元代书画家与官员，兼擅书法、绘画、诗文，是元代文人艺术的核心人物之一。",
+    "achievements": "其书法精通行书、楷书并形成“赵体”，倡导复古而融会诸家，对元明清书风影响深远。",
+    "representative_works": [
+      "胆巴碑",
+      "洛神赋",
+      "前后赤壁赋",
+      "闲居赋"
+    ],
+    "source": "维基百科",
+    "source_url": "https://zh.wikipedia.org/zh-cn/%E8%B5%B5%E5%AD%9F%E9%A0%AB"
+  }
+]

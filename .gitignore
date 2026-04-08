@@ -1,0 +1,49 @@
+# Secrets and local env
+.env
+*.env
+!.env.example
+backend/.env
+
+# Python cache and build outputs
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+.coverage.*
+htmlcov/
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+env/
+ENV/
+
+# Logs and local runtime files
+*.log
+*.pid
+*.out
+*.err
+
+# IDE and OS files
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+
+# Frontend common outputs
+node_modules/
+.pnpm-store/
+.npm/
+.yarn/
+.next/
+.nuxt/
+coverage/
