@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "eastern-jin",
+    "name_cn": "东晋",
+    "name_en": "Eastern Jin",
+    "start_year": 317,
+    "end_year": 420,
+    "summary": "东晋是中国书法史上的黄金时代，王羲之、王献之等书法家活跃于此时期。"
+  },
+  {
+    "slug": "tang",
+    "name_cn": "唐",
+    "name_en": "Tang Dynasty",
+    "start_year": 618,
+    "end_year": 907,
+    "summary": "唐代是中国书法史上最重要的时期之一，楷书发展到顶峰，颜真卿、柳公权、欧阳询等书法家涌现。"
+  },
+  {
+    "slug": "sui-tang",
+    "name_cn": "隋唐",
+    "name_en": "Sui and Tang Dynasties",
+    "start_year": 581,
+    "end_year": 907,
+    "summary": "隋唐时期是中国书法史上的重要转型期，楷书逐渐成熟并达到高峰。"
+  },
+  {
+    "slug": "song-yuan",
+    "name_cn": "宋元",
+    "name_en": "Song and Yuan Dynasties",
+    "start_year": 960,
+    "end_year": 1368,
+    "summary": "宋元时期书法呈现尚意书风，苏轼、黄庭坚、米芾、蔡襄等宋四家和赵孟頫等书法家涌现。"
+  },
+  {
+    "slug": "northern-song",
+    "name_cn": "北宋",
+    "name_en": "Northern Song",
+    "start_year": 960,
+    "end_year": 1127,
+    "summary": "北宋是尚意书风的重要时期，宋四家活跃于此时期。"
+  },
+  {
+    "slug": "ming",
+    "name_cn": "明",
+    "name_en": "Ming Dynasty",
+    "start_year": 1368,
+    "end_year": 1644,
+    "summary": "明代书法呈现多样化发展，吴门书派、华亭书派等涌现。"
+  },
+  {
+    "slug": "qing",
+    "name_cn": "清",
+    "name_en": "Qing Dynasty",
+    "start_year": 1644,
+    "end_year": 1912,
+    "summary": "清代碑学兴起，邓石如、何绍基、吴昌硕等书法家涌现。"
+  }
+]

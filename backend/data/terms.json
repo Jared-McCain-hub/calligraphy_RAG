@@ -3,166 +3,312 @@
     "slug": "yan-style",
     "name_cn": "颜体",
     "name_en": "Yan Style",
-    "aliases": [],
     "category": "style",
-    "definition": "颜体是唐代书法家颜真卿创立的楷书风格体系，与柳公权并称“颜柳”，以“颜筋柳骨”著称。",
-    "usage_notes": "其楷书突破初唐瘦硬风格，笔法融合篆籀，线条丰腴雄浑，结体宽博端庄。常见特征包括中锋运笔、横细竖粗、藏锋圆润、蚕头燕尾和外拓结构，整体气势浑厚磅礴。",
-    "source": "百度百科",
-    "source_url": "https://baike.baidu.com/item/%E9%A2%9C%E4%BD%93"
+    "definition": "颜体是唐代书法家颜真卿创立的楷书风格体系，与柳公权并称颜柳，以颜筋柳骨著称。",
+    "usage_notes": "其楷书突破初唐瘦硬风格，笔法融合篆籀，线条丰腴雄浑，结体宽博端庄。"
+  },
+  {
+    "slug": "ou-style",
+    "name_cn": "欧体",
+    "name_en": "Ou Style",
+    "category": "style",
+    "definition": "欧体是唐代书法家欧阳询创立的楷书风格，以笔力险劲、结构严整著称。",
+    "usage_notes": "其楷书结构精严、笔法刚健，有楷书极则之誉。"
+  },
+  {
+    "slug": "liu-style",
+    "name_cn": "柳体",
+    "name_en": "Liu Style",
+    "category": "style",
+    "definition": "柳体是唐代书法家柳公权创立的楷书风格，以骨力劲健、结构严谨见长。",
+    "usage_notes": "与颜真卿并称颜柳，有颜筋柳骨之誉。"
+  },
+  {
+    "slug": "zhao-style",
+    "name_cn": "赵体",
+    "name_en": "Zhao Style",
+    "category": "style",
+    "definition": "赵体是元代书法家赵孟頫创立的书风，以遒媚秀逸、风骨内含著称。",
+    "usage_notes": "其书法倡导复古，融合二王与唐楷，风格温润典雅。"
   },
   {
     "slug": "regular-script",
     "name_cn": "楷书",
     "name_en": "Regular Script",
-    "aliases": [
-      "楷体",
-      "正楷",
-      "真书"
-    ],
     "category": "script",
-    "definition": "楷书是汉字的标准字体，由隶书演变而来，形体方正、笔画平直，被视为书写楷模。",
-    "usage_notes": "楷书发展大致分为隶楷、晋楷、魏楷、唐楷四个阶段。隋唐时期法度完备，唐代科举对“楷法遒美”的要求推动了楷书的普及和规范化。",
-    "source": "百度百科",
-    "source_url": "https://baike.baidu.com/item/%E6%A5%B7%E4%B9%A6/482941"
+    "definition": "楷书是汉字的标准字体，由隶书演变而来，形体方正、笔画平直。",
+    "usage_notes": "楷书发展分为隶楷、晋楷、魏楷、唐楷四个阶段。"
   },
   {
     "slug": "running-script",
     "name_cn": "行书",
     "name_en": "Running Script",
-    "aliases": [
-      "行楷",
-      "行草"
-    ],
     "category": "script",
-    "definition": "行书是介于草书和楷书之间的书体，比草书端庄，比正楷活泼，是书法艺术中兼具实用性与审美性的字体。",
-    "usage_notes": "行书是在楷书基础上形成的，因灵活多变而受到历代书法家重视。楷法多于草法的称为“行楷”，草法多于楷法的称为“行草”。",
-    "source": "百度百科",
-    "source_url": "https://baike.baidu.com/item/%E8%A1%8C%E4%B9%A6/472950"
-  },
-  {
-    "slug": "centered-tip",
-    "name_cn": "中锋",
-    "name_en": "Centered Tip",
-    "aliases": [
-      "正锋"
-    ],
-    "category": "technique",
-    "definition": "中锋是书法基本用笔术语，指行笔时将毛笔主锋保持在点画中线，使笔锋在笔画中心运行。",
-    "usage_notes": "中锋用笔通常要求笔杆尽量垂直于纸面。用此法写出的线条圆浑饱满、富有立体感，历来被视为书法用笔的核心准则。",
-    "source": "百度百科",
-    "source_url": "https://baike.baidu.com/item/%E4%B8%AD%E9%94%8B/9347334"
-  },
-  {
-    "slug": "concealed-tip",
-    "name_cn": "藏锋",
-    "name_en": "Concealed Tip",
-    "aliases": [
-      "逆锋",
-      "正锋"
-    ],
-    "category": "technique",
-    "definition": "藏锋是书法创作中的核心用笔技法之一，指起笔时通过逆势行笔将笔锋隐于笔画之内。",
-    "usage_notes": "其理论可追溯至王羲之“欲右先左，欲下先上”的用笔思想。藏锋能使线条呈现深厚圆润的质感，增强力度与含蓄之美，并常与露锋配合使用。",
-    "source": "百度百科",
-    "source_url": "https://baike.baidu.com/item/%E8%97%8F%E9%94%8B/16983097"
-  },
-  {
-    "slug": "side-tip",
-    "name_cn": "侧锋",
-    "name_en": "Side Tip",
-    "aliases": [],
-    "category": "technique",
-    "definition": "侧锋是指运笔时笔锋位置处于中锋与偏锋之间的一种用笔方法，是中锋用笔的重要补充。",
-    "usage_notes": "在以中锋为主的前提下适当使用侧锋，可使点画形态更加丰富并富于变化。古人有“正以取劲，侧以取妍”之说，侧锋常用于取势，势成后再转换为中锋。",
-    "source": "百度百科",
-    "source_url": "https://baike.baidu.com/item/%E4%BE%A7%E9%94%8B%E7%94%A8%E7%AC%94/878327"
-  },
-  {
-    "slug": "clerical-script",
-    "name_cn": "隶书",
-    "name_en": "Clerical Script",
-    "aliases": [
-      "汉隶"
-    ],
-    "category": "script",
-    "definition": "隶书由篆书简化演变而来，至东汉发展成熟，具有宽扁结体和波磔分明的典型特征。",
-    "usage_notes": "隶书常被概括为“蚕头雁尾”“一波三折”，在书法史上具有由篆入楷的重要过渡意义。与颜体中的“蚕头燕尾”不是同一概念。",
-    "source": "百度百科",
-    "source_url": "https://baike.baidu.com/item/%E6%B1%89%E9%9A%B6/5948244"
+    "definition": "行书是介于草书和楷书之间的书体，比草书端庄，比正楷活泼。",
+    "usage_notes": "行书在楷书基础上形成，因灵活多变而受到历代书法家重视。"
   },
   {
     "slug": "cursive-script",
     "name_cn": "草书",
     "name_en": "Cursive Script",
-    "aliases": [
-      "章草",
-      "今草",
-      "狂草"
-    ],
     "category": "script",
-    "definition": "草书是在隶书基础上为书写简便而发展出的书体，特点是结构简省、笔画连绵、笔势流动。",
-    "usage_notes": "草书可分为章草、今草、狂草等类型。介绍张旭、怀素等书家时经常需要与楷书、行书作风格对比。",
-    "source": "百度百科",
-    "source_url": "https://baike.baidu.com/item/%E8%8D%89%E4%B9%A6"
+    "definition": "草书是在隶书基础上为书写简便而发展出的书体，特点是结构简省、笔画连绵。",
+    "usage_notes": "草书可分为章草、今草、狂草等类型。"
+  },
+  {
+    "slug": "clerical-script",
+    "name_cn": "隶书",
+    "name_en": "Clerical Script",
+    "category": "script",
+    "definition": "隶书由篆书简化演变而来，至东汉发展成熟，具有宽扁结体和波磔分明的特征。",
+    "usage_notes": "隶书常被概括为蚕头雁尾、一波三折。"
   },
   {
     "slug": "seal-script",
     "name_cn": "篆书",
     "name_en": "Seal Script",
-    "aliases": [
-      "大篆",
-      "小篆"
-    ],
     "category": "script",
-    "definition": "篆书是早期汉字书体的统称，保留较强的象形特征，通常包括大篆和小篆等形态。",
-    "usage_notes": "小篆在秦代得到规范，形体均匀齐整。篆书常作为讨论书法源流、笔法篆籀意味和隶变过程的重要基础术语。",
-    "source": "百度百科",
-    "source_url": "https://baike.baidu.hk/item/%E6%9B%B8%E6%B3%95%E5%9B%9B%E9%AB%94/2233494"
+    "definition": "篆书是早期汉字书体的统称，保留较强的象形特征。",
+    "usage_notes": "小篆在秦代得到规范，形体均匀齐整。"
+  },
+  {
+    "slug": "centered-tip",
+    "name_cn": "中锋",
+    "name_en": "Centered Tip",
+    "category": "technique",
+    "definition": "中锋是书法基本用笔术语，指行笔时将毛笔主锋保持在点画中线。",
+    "usage_notes": "用此法写出的线条圆浑饱满、富有立体感，历来被视为书法用笔的核心准则。"
+  },
+  {
+    "slug": "concealed-tip",
+    "name_cn": "藏锋",
+    "name_en": "Concealed Tip",
+    "category": "technique",
+    "definition": "藏锋是书法创作中的核心用笔技法之一，指起笔时通过逆势行笔将笔锋隐于笔画之内。",
+    "usage_notes": "藏锋能使线条呈现深厚圆润的质感，增强力度与含蓄之美。"
+  },
+  {
+    "slug": "side-tip",
+    "name_cn": "侧锋",
+    "name_en": "Side Tip",
+    "category": "technique",
+    "definition": "侧锋是指运笔时笔锋位置处于中锋与偏锋之间的一种用笔方法。",
+    "usage_notes": "在以中锋为主的前提下适当使用侧锋，可使点画形态更加丰富。"
   },
   {
     "slug": "lifting-and-pressing",
     "name_cn": "提按",
     "name_en": "Lifting and Pressing",
-    "aliases": [],
     "category": "technique",
-    "definition": "提按是书法运笔中的基本控制方法，“提”使线条变细，“按”使线条变粗，是形成点画节奏与粗细变化的重要笔法。",
-    "usage_notes": "提按不是单次起落，而常常在一笔之中多次配合使用。它与中锋控制密切相关，在楷书、行书和行草书中都十分常见。",
-    "source": "百度百科TA说",
-    "source_url": "https://wapbaike.baidu.com/tashuo/browse/content?id=703153e26b9ca0c87b05f7c7"
+    "definition": "提按是书法运笔中的基本控制方法，提使线条变细，按使线条变粗。",
+    "usage_notes": "提按常常在一笔之中多次配合使用，与中锋控制密切相关。"
   },
   {
-    "slug": "silkworm-head-and-swallow-tail",
+    "slug": "silkworm-head-swallow-tail",
     "name_cn": "蚕头燕尾",
-    "name_en": "Silkworm Head and Swallow Tail",
-    "aliases": [],
+    "name_en": "Silkworm Head Swallow Tail",
     "category": "technique",
     "definition": "蚕头燕尾是书法术语，用来形容起笔厚重圆润如蚕头、收笔出锋舒展如燕尾的笔画形态。",
-    "usage_notes": "该术语常用于描述颜真卿楷书等书写特征。需与隶书中的“蚕头雁尾”区分，二者虽然名称相近，但所指书体和笔画语境不同。",
-    "source": "百度百科",
-    "source_url": "https://baike.baidu.com/item/%E8%9A%95%E5%A4%B4%E7%87%95%E5%B0%BE/3764768"
+    "usage_notes": "该术语常用于描述颜真卿楷书等书写特征。"
   },
   {
     "slug": "outward-expansion",
     "name_cn": "外拓",
     "name_en": "Outward Expansion",
-    "aliases": [],
     "category": "technique",
-    "definition": "外拓是书法术语，指意在纵放、向外开张的笔势或结体倾向，与内擫相对。",
-    "usage_notes": "外拓常用于分析王献之以及部分行草书风格，也常被用来概括颜体宽博开张的结构特征。讨论风格比较时可与“内擫”成对使用。",
-    "source": "书法空间",
-    "source_url": "http://9610.com/baike/cyshow.asp?id=7252"
+    "definition": "外拓是书法术语，指意在纵放、向外开张的笔势或结体倾向。",
+    "usage_notes": "外拓常用于分析颜体宽博开张的结构特征。"
+  },
+  {
+    "slug": "inward-contraction",
+    "name_cn": "内擫",
+    "name_en": "Inward Contraction",
+    "category": "technique",
+    "definition": "内擫是书法术语，指笔画向内收敛、结体紧密的笔势倾向。",
+    "usage_notes": "内擫常用于分析欧阳询等楷书风格，与外拓形成对比。"
   },
   {
     "slug": "bone-force",
     "name_cn": "骨力",
     "name_en": "Bone Force",
-    "aliases": [
-      "骨法"
-    ],
     "category": "aesthetic",
-    "definition": "骨力是书法术语，指点画中所蕴含的坚劲笔力，是构成字体筋骨和精神气象的重要因素。",
-    "usage_notes": "评价书法时常用“骨力”描述线条的刚劲、遒韧和支撑感。它通常来自有控制的用笔与行笔涩势，在分析颜体、柳体等楷书风格时尤其常见。",
-    "source": "百度百科TA说",
-    "source_url": "https://wapbaike.baidu.com/tashuo/browse/content?id=e8676af1a8f9b7b8aa1c62a4"
+    "definition": "骨力是书法术语，指点画中所蕴含的坚劲笔力。",
+    "usage_notes": "评价书法时常用骨力描述线条的刚劲、遒韧和支撑感。"
+  },
+  {
+    "slug": "ink-method",
+    "name_cn": "墨法",
+    "name_en": "Ink Method",
+    "category": "technique",
+    "definition": "墨法是书法创作中关于用墨的技法，包括墨的浓淡、干湿、燥润等变化。",
+    "usage_notes": "墨法与笔法相辅相成，古人有墨分五色之说。"
+  },
+  {
+    "slug": "brush-method",
+    "name_cn": "笔法",
+    "name_en": "Brush Method",
+    "category": "technique",
+    "definition": "笔法是书法创作中关于执笔、运笔的基本技法。",
+    "usage_notes": "笔法是书法的核心技法，常见有中锋、侧锋、藏锋、露锋等方法。"
+  },
+  {
+    "slug": "structure",
+    "name_cn": "结体",
+    "name_en": "Structure",
+    "category": "technique",
+    "definition": "结体是指汉字的结构安排，包括笔画的位置、长短、粗细、疏密等关系。",
+    "usage_notes": "结体是书法技法的重要组成部分，与笔法、章法并称书法三要素。"
+  },
+  {
+    "slug": "composition",
+    "name_cn": "章法",
+    "name_en": "Composition",
+    "category": "technique",
+    "definition": "章法是指书法作品的整体布局，包括字与字、行与行之间的关系。",
+    "usage_notes": "章法是书法三要素之一，影响作品的整体气势和视觉效果。"
+  },
+  {
+    "slug": "spirit",
+    "name_cn": "气韵",
+    "name_en": "Spirit",
+    "category": "aesthetic",
+    "definition": "气韵是书法审美的重要概念，指作品所表现出的精神气质和生动意态。",
+    "usage_notes": "气韵是中国书画品评的重要标准，与形质相对。"
+  },
+  {
+    "slug": "copying",
+    "name_cn": "临摹",
+    "name_en": "Copying",
+    "category": "practice",
+    "definition": "临摹是学习书法的重要方法，包括对照原帖书写和描摹原帖两种方式。",
+    "usage_notes": "临摹是学习书法的必经之路，通过临摹古代名作学习技法。"
+  },
+  {
+    "slug": "running-regular",
+    "name_cn": "行楷",
+    "name_en": "Running Regular Script",
+    "category": "script",
+    "definition": "行楷是介于楷书和行书之间的书体，楷法多于草法。",
+    "usage_notes": "行楷兼具楷书的端正和行书的流畅，是日常书写常用的字体。"
+  },
+  {
+    "slug": "running-cursive",
+    "name_cn": "行草",
+    "name_en": "Running Cursive Script",
+    "category": "script",
+    "definition": "行草是介于行书和草书之间的书体，草法多于楷法。",
+    "usage_notes": "行草比行书更加流畅，但又不如狂草那样奔放。"
+  },
+  {
+    "slug": "wild-cursive",
+    "name_cn": "狂草",
+    "name_en": "Wild Cursive Script",
+    "category": "script",
+    "definition": "狂草是草书中最奔放的一种，笔势连绵、气势磅礴。",
+    "usage_notes": "狂草以张旭、怀素为代表，展现了草书的极致艺术。"
+  },
+  {
+    "slug": "seal-script-types",
+    "name_cn": "大小篆",
+    "name_en": "Large and Small Seal Script",
+    "category": "script",
+    "definition": "大篆和小篆是篆书的两种主要形态。",
+    "usage_notes": "大篆包括甲骨文、金文等早期形态；小篆是秦代统一的规范化篆书。"
+  },
+  {
+    "slug": "cursive-clerical",
+    "name_cn": "章草",
+    "name_en": "Cursive Clerical Script",
+    "category": "script",
+    "definition": "章草是早期的草书，保留了隶书的笔意。",
+    "usage_notes": "章草是今草的前身，特点是字字独立、波磔分明。"
+  },
+  {
+    "slug": "modern-cursive",
+    "name_cn": "今草",
+    "name_en": "Modern Cursive Script",
+    "category": "script",
+    "definition": "今草是在章草基础上发展而来的草书，笔画更加连绵流畅。",
+    "usage_notes": "今草以二王为代表，特点是字间连绵、笔势流畅。"
+  },
+  {
+    "slug": "copybook",
+    "name_cn": "字帖",
+    "name_en": "Copybook",
+    "category": "practice",
+    "definition": "字帖是供学习书法描摹的范本。",
+    "usage_notes": "字帖是初学书法的重要工具，常见有楷书字帖、行书字帖等不同类型。"
+  },
+  {
+    "slug": "brush-pen",
+    "name_cn": "毛笔",
+    "name_en": "Brush Pen",
+    "category": "tool",
+    "definition": "毛笔是中国传统的书写工具，由动物毛制成。",
+    "usage_notes": "毛笔分为硬毫、软毫、兼毫三种类型，适合不同的书体和风格。"
+  },
+  {
+    "slug": "ink-stone",
+    "name_cn": "砚台",
+    "name_en": "Ink Stone",
+    "category": "tool",
+    "definition": "砚台是研磨墨的工具，是文房四宝之一。",
+    "usage_notes": "著名的砚台有端砚、歙砚、洮砚、澄泥砚等，统称四大名砚。"
+  },
+  {
+    "slug": "paper",
+    "name_cn": "宣纸",
+    "name_en": "Xuan Paper",
+    "category": "tool",
+    "definition": "宣纸是中国传统书画用纸，因产于宣州而得名。",
+    "usage_notes": "宣纸分为生宣、熟宣、半熟宣三种，适合不同的书体和风格。"
+  },
+  {
+    "slug": "ink-stick",
+    "name_cn": "墨",
+    "name_en": "Ink Stick",
+    "category": "tool",
+    "definition": "墨是中国传统书画使用的黑色颜料，通常制成墨锭形式。",
+    "usage_notes": "墨分为松烟墨、油烟墨等类型，好的墨具有色泽黑润、质地细腻的特点。"
+  },
+  {
+    "slug": "seal-carving",
+    "name_cn": "篆刻",
+    "name_en": "Seal Carving",
+    "category": "related",
+    "definition": "篆刻是在印章上刻写篆书文字的艺术，与书法密切相关。",
+    "usage_notes": "篆刻艺术与书法、绘画并称诗书画印，是文人艺术的重要组成部分。"
+  },
+  {
+    "slug": "seal-end",
+    "name_cn": "印章",
+    "name_en": "Seal",
+    "category": "related",
+    "definition": "印章是在文件、书画作品上盖印的凭证和装饰。",
+    "usage_notes": "印章是书法作品的重要组成部分，常见的有姓名印、字号印、斋馆印等类型。"
+  },
+  {
+    "slug": "inscription-text",
+    "name_cn": "款识",
+    "name_en": "Inscription Text",
+    "category": "technique",
+    "definition": "款识是书画作品上的题记，包括作者姓名、创作时间、地点等信息。",
+    "usage_notes": "款识是书法作品的组成部分，内容包括诗堂、题跋、印记等。"
+  },
+  {
+    "slug": "stele",
+    "name_cn": "碑",
+    "name_en": "Stele",
+    "category": "related",
+    "definition": "碑是刻有文字的石头，用于纪念、记事等目的。",
+    "usage_notes": "碑刻是保存古代书法的重要载体，著名的碑刻有多宝塔碑、九成宫醴泉铭等。"
+  },
+  {
+    "slug": "scroll",
+    "name_cn": "帖",
+    "name_en": "Scroll",
+    "category": "related",
+    "definition": "帖是指写在纸或绢上的书法作品，通常装裱成卷轴形式。",
+    "usage_notes": "帖学与碑学相对，帖学派强调学习纸本墨迹的流畅自然。"
   }
 ]

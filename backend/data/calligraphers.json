@@ -3,17 +3,11 @@
     "slug": "wang-xizhi",
     "name_cn": "王羲之",
     "name_en": "Wang Xizhi",
-    "aliases": [
-      "王右军"
-    ],
-    "courtesy_name": "逸少",
-    "art_name": "",
     "era": "东晋",
     "birth_year": 303,
     "death_year": 361,
-    "hometown": "琅邪临沂",
     "primary_style": "行书",
-    "biography": "王羲之是东晋著名书法家，官至右军将军，世称王右军，被后世尊为“书圣”。",
+    "biography": "王羲之是东晋著名书法家，官至右军将军，世称王右军，被后世尊为书圣。",
     "achievements": "兼善隶、草、楷、行各体，将章草、八分等书体发展为今草、行书、楷书，风格平和自然、笔势委婉含蓄，对后世书法影响深远。",
     "representative_works": [
       "兰亭集序",
@@ -21,108 +15,285 @@
       "快雪时晴帖",
       "丧乱帖",
       "黄庭经"
-    ],
-    "source": "维基百科",
-    "source_url": "https://zh.wikipedia.org/zh-cn/%E7%8E%8B%E7%BE%B2%E4%B9%8B"
+    ]
   },
   {
     "slug": "yan-zhenqing",
     "name_cn": "颜真卿",
     "name_en": "Yan Zhenqing",
-    "aliases": [
-      "颜鲁公"
-    ],
-    "courtesy_name": "清臣",
-    "art_name": "",
     "era": "唐",
     "birth_year": 709,
     "death_year": 785,
-    "hometown": "京兆长安",
     "primary_style": "楷书",
     "biography": "颜真卿是唐代政治家、书法家，因封鲁郡公而人称颜鲁公，是中国书法史上最具代表性的楷书大家之一。",
-    "achievements": "其所创“颜体”对后世影响极大，楷书雄浑厚重、气象恢宏；同时以忠义刚正著称，在安史之乱中的事迹也使其人格与书风紧密相连。",
+    "achievements": "其所创颜体对后世影响极大，楷书雄浑厚重、气象恢宏；同时以忠义刚正著称。",
     "representative_works": [
       "多宝塔碑",
       "祭侄文稿",
       "颜勤礼碑",
       "麻姑仙坛记"
-    ],
-    "source": "维基百科",
-    "source_url": "https://zh.wikipedia.org/zh-cn/%E9%A1%8F%E7%9C%9F%E5%8D%BF"
+    ]
   },
   {
     "slug": "ouyang-xun",
     "name_cn": "欧阳询",
     "name_en": "Ouyang Xun",
-    "aliases": [
-      "欧阳率更"
-    ],
-    "courtesy_name": "信本",
-    "art_name": "",
     "era": "隋唐",
     "birth_year": 557,
     "death_year": 641,
-    "hometown": "潭州临湘",
     "primary_style": "楷书",
     "biography": "欧阳询是隋末唐初著名书法家，官至太子率更令、弘文馆学士，被誉为唐代四大书法家之一。",
-    "achievements": "其楷书笔力险劲、结构严整，自成“欧体”，有“楷书极则”之誉，对唐楷法度的建立影响深远。",
+    "achievements": "其楷书笔力险劲、结构严整，自成欧体，有楷书极则之誉。",
     "representative_works": [
       "九成宫醴泉铭",
       "虞恭公碑",
       "化度寺塔铭",
-      "皇甫诞碑",
-      "梦奠帖"
-    ],
-    "source": "维基百科",
-    "source_url": "https://zh.wikipedia.org/wiki/%E6%AC%A7%E9%98%B3%E8%AF%A2"
+      "皇甫诞碑"
+    ]
   },
   {
     "slug": "liu-gongquan",
     "name_cn": "柳公权",
     "name_en": "Liu Gongquan",
-    "aliases": [],
-    "courtesy_name": "诚悬",
-    "art_name": "",
     "era": "唐",
     "birth_year": 778,
     "death_year": 865,
-    "hometown": "京兆华原",
     "primary_style": "楷书",
     "biography": "柳公权是唐代中后期大书法家，历仕七朝，位至太子少傅，以楷书成就最为著名。",
-    "achievements": "他吸收颜真卿、欧阳询等人之长，自创“柳体”，以骨力劲健、结构严谨见长，与颜真卿并称“颜柳”，后世有“颜筋柳骨”之誉。",
+    "achievements": "他吸收颜真卿、欧阳询等人之长，自创柳体，与颜真卿并称颜柳，后世有颜筋柳骨之誉。",
     "representative_works": [
       "玄秘塔碑",
       "神策军碑",
-      "金刚经刻石",
-      "李晟碑",
-      "蒙诏帖"
-    ],
-    "source": "维基百科",
-    "source_url": "https://zh.wikipedia.org/wiki/%E6%9F%B3%E5%85%AC%E6%AC%8A"
+      "金刚经刻石"
+    ]
   },
   {
     "slug": "zhao-mengfu",
     "name_cn": "赵孟頫",
     "name_en": "Zhao Mengfu",
-    "aliases": [
-      "赵承旨"
-    ],
-    "courtesy_name": "子昂",
-    "art_name": "松雪道人",
     "era": "宋元",
     "birth_year": 1254,
     "death_year": 1322,
-    "hometown": "浙江湖州",
     "primary_style": "行书",
-    "biography": "赵孟頫是南宋宗室后裔、元代书画家与官员，兼擅书法、绘画、诗文，是元代文人艺术的核心人物之一。",
-    "achievements": "其书法精通行书、楷书并形成“赵体”，倡导复古而融会诸家，对元明清书风影响深远。",
+    "biography": "赵孟頫是南宋宗室后裔、元代书画家与官员，兼擅书法、绘画、诗文。",
+    "achievements": "其书法精通行书、楷书并形成赵体，倡导复古而融会诸家，对元明清书风影响深远。",
     "representative_works": [
       "胆巴碑",
       "洛神赋",
-      "前后赤壁赋",
-      "闲居赋"
-    ],
-    "source": "维基百科",
-    "source_url": "https://zh.wikipedia.org/zh-cn/%E8%B5%B5%E5%AD%9F%E9%A0%AB"
+      "前后赤壁赋"
+    ]
+  },
+  {
+    "slug": "wang-xianzhi",
+    "name_cn": "王献之",
+    "name_en": "Wang Xianzhi",
+    "era": "东晋",
+    "birth_year": 344,
+    "death_year": 386,
+    "primary_style": "行草",
+    "biography": "王献之是王羲之第七子，东晋著名书法家，与其父并称二王。",
+    "achievements": "其行草书风豪放不羁，笔势连绵，对后世行草书发展影响深远。",
+    "representative_works": [
+      "鸭头丸帖",
+      "中秋帖",
+      "廿九日帖"
+    ]
+  },
+  {
+    "slug": "zhang-xu",
+    "name_cn": "张旭",
+    "name_en": "Zhang Xu",
+    "era": "唐",
+    "birth_year": 675,
+    "death_year": 750,
+    "primary_style": "狂草",
+    "biography": "张旭是唐代著名书法家，以狂草著称，与怀素并称颠张醉素。",
+    "achievements": "其草书奔放淋漓、气势磅礴，将草书推向新的艺术高度，被誉为草圣。",
+    "representative_works": [
+      "古诗四帖",
+      "肚痛帖"
+    ]
+  },
+  {
+    "slug": "huai-su",
+    "name_cn": "怀素",
+    "name_en": "Huai Su",
+    "era": "唐",
+    "birth_year": 737,
+    "death_year": 799,
+    "primary_style": "狂草",
+    "biography": "怀素是唐代僧人书法家，以狂草著称，与张旭并称颠张醉素。",
+    "achievements": "其草书如骤雨旋风、飞动圆转，以自叙帖为代表，展现了狂草的极致艺术。",
+    "representative_works": [
+      "自叙帖",
+      "苦笋帖",
+      "小草千字文"
+    ]
+  },
+  {
+    "slug": "su-shi",
+    "name_cn": "苏轼",
+    "name_en": "Su Shi",
+    "era": "北宋",
+    "birth_year": 1037,
+    "death_year": 1101,
+    "primary_style": "行书",
+    "biography": "苏轼是北宋著名文学家、书法家，宋四家之首。",
+    "achievements": "其书法丰腴跌宕、天真烂漫，倡导尚意书风，对后世影响深远。",
+    "representative_works": [
+      "寒食帖",
+      "赤壁赋"
+    ]
+  },
+  {
+    "slug": "huang-tingjian",
+    "name_cn": "黄庭坚",
+    "name_en": "Huang Tingjian",
+    "era": "北宋",
+    "birth_year": 1045,
+    "death_year": 1105,
+    "primary_style": "行书",
+    "biography": "黄庭坚是北宋著名书法家、诗人，宋四家之一。",
+    "achievements": "其行书中宫紧收、四缘开张，笔法奇崛，自成一家。",
+    "representative_works": [
+      "松风阁诗帖",
+      "寒食帖"
+    ]
+  },
+  {
+    "slug": "mi-fu",
+    "name_cn": "米芾",
+    "name_en": "Mi Fu",
+    "era": "北宋",
+    "birth_year": 1051,
+    "death_year": 1107,
+    "primary_style": "行书",
+    "biography": "米芾是北宋著名书法家、画家、鉴赏家，宋四家之一。",
+    "achievements": "其行书沉着痛快、笔势骏发，对宋代尚意书风有重要贡献。",
+    "representative_works": [
+      "蜀素帖",
+      "苕溪诗帖",
+      "珊瑚帖"
+    ]
+  },
+  {
+    "slug": "cai-xiang",
+    "name_cn": "蔡襄",
+    "name_en": "Cai Xiang",
+    "era": "北宋",
+    "birth_year": 1012,
+    "death_year": 1067,
+    "primary_style": "楷书",
+    "biography": "蔡襄是北宋著名书法家，宋四家之一。",
+    "achievements": "其书法端庄秀丽、温润典雅，在宋代尚意书风中独树一帜。",
+    "representative_works": [
+      "茶录",
+      "万安桥记"
+    ]
+  },
+  {
+    "slug": "dong-qichang",
+    "name_cn": "董其昌",
+    "name_en": "Dong Qichang",
+    "era": "明",
+    "birth_year": 1555,
+    "death_year": 1636,
+    "primary_style": "行书",
+    "biography": "董其昌是明末著名书画家、鉴赏家，华亭派代表人物。",
+    "achievements": "其书法秀逸淡雅、笔法精到，倡导以古为师，对明末清初书风影响深远。",
+    "representative_works": [
+      "白羽扇赋",
+      "方圆清卷"
+    ]
+  },
+  {
+    "slug": "wen-zhengming",
+    "name_cn": "文徵明",
+    "name_en": "Wen Zhengming",
+    "era": "明",
+    "birth_year": 1470,
+    "death_year": 1559,
+    "primary_style": "小楷",
+    "biography": "文徵明是明代著名书画家，吴门四家之一。",
+    "achievements": "其小楷工整精细、温润典雅，被誉为小楷名手。",
+    "representative_works": [
+      "千字文",
+      "赤壁赋"
+    ]
+  },
+  {
+    "slug": "zhu-yunming",
+    "name_cn": "祝允明",
+    "name_en": "Zhu Yunming",
+    "era": "明",
+    "birth_year": 1461,
+    "death_year": 1527,
+    "primary_style": "草书",
+    "biography": "祝允明是明代著名书法家，吴门四家之一。",
+    "achievements": "其草书狂放不羁、笔势连绵，被誉为明代草书第一。",
+    "representative_works": [
+      "赤壁赋",
+      "洛神赋"
+    ]
+  },
+  {
+    "slug": "zheng-xie",
+    "name_cn": "郑燮",
+    "name_en": "Zheng Xie",
+    "era": "清",
+    "birth_year": 1693,
+    "death_year": 1765,
+    "primary_style": "行书",
+    "biography": "郑燮是清代著名书画家，扬州八怪之一。",
+    "achievements": "其书法融合隶、楷、行诸体，自创六分半书，风格独特。",
+    "representative_works": [
+      "难得糊涂",
+      "行书七言联"
+    ]
+  },
+  {
+    "slug": "he-shaoji",
+    "name_cn": "何绍基",
+    "name_en": "He Shaoji",
+    "era": "清",
+    "birth_year": 1799,
+    "death_year": 1873,
+    "primary_style": "行书",
+    "biography": "何绍基是清代著名书法家，晚清碑学代表人物之一。",
+    "achievements": "其书法融碑帖于一体，笔势雄强、结构开张。",
+    "representative_works": [
+      "行书四条屏",
+      "临张迁碑"
+    ]
+  },
+  {
+    "slug": "deng-shiru",
+    "name_cn": "邓石如",
+    "name_en": "Deng Shiru",
+    "era": "清",
+    "birth_year": 1743,
+    "death_year": 1805,
+    "primary_style": "篆书",
+    "biography": "邓石如是清代著名书法家、篆刻家，碑学代表人物之一。",
+    "achievements": "其篆书笔力遒劲、结构开张，对清代碑学书风有开创性贡献。",
+    "representative_works": [
+      "篆书四条屏",
+      "白氏草堂记"
+    ]
+  },
+  {
+    "slug": "wu-changshuo",
+    "name_cn": "吴昌硕",
+    "name_en": "Wu Changshuo",
+    "era": "清",
+    "birth_year": 1844,
+    "death_year": 1927,
+    "primary_style": "篆书",
+    "biography": "吴昌硕是清末民初著名书画家、篆刻家，海上画派代表人物。",
+    "achievements": "其篆书笔力雄强、气势磅礴，融合石鼓文与行草笔意。",
+    "representative_works": [
+      "石鼓文",
+      "篆书四条屏"
+    ]
   }
 ]

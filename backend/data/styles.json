@@ -1,0 +1,58 @@
+[
+  {
+    "slug": "running-script-style",
+    "name_cn": "行书",
+    "name_en": "Running Script",
+    "category": "script",
+    "description": "行书是介于楷书和草书之间的书体，兼具实用性与艺术性。"
+  },
+  {
+    "slug": "regular-script-style",
+    "name_cn": "楷书",
+    "name_en": "Regular Script",
+    "category": "script",
+    "description": "楷书是汉字的标准字体，结构规整、笔画清晰。"
+  },
+  {
+    "slug": "cursive-script-style",
+    "name_cn": "草书",
+    "name_en": "Cursive Script",
+    "category": "script",
+    "description": "草书笔画连绵、笔势流动，是艺术性极强的书体。"
+  },
+  {
+    "slug": "wild-cursive-style",
+    "name_cn": "狂草",
+    "name_en": "Wild Cursive",
+    "category": "script",
+    "description": "狂草是草书中最奔放的一种，笔势连绵、气势磅礴。"
+  },
+  {
+    "slug": "seal-script-style",
+    "name_cn": "篆书",
+    "name_en": "Seal Script",
+    "category": "script",
+    "description": "篆书是早期汉字书体，保留较强的象形特征。"
+  },
+  {
+    "slug": "clerical-script-style",
+    "name_cn": "隶书",
+    "name_en": "Clerical Script",
+    "category": "script",
+    "description": "隶书具有宽扁结体和波磔分明的典型特征。"
+  },
+  {
+    "slug": "small-regular-script",
+    "name_cn": "小楷",
+    "name_en": "Small Regular Script",
+    "category": "script",
+    "description": "小楷是楷书的小型版本，常用于书写经文、书信等。"
+  },
+  {
+    "slug": "running-cursive-style",
+    "name_cn": "行草",
+    "name_en": "Running Cursive",
+    "category": "script",
+    "description": "行草是介于行书和草书之间的书体，比行书更流畅。"
+  }
+]
