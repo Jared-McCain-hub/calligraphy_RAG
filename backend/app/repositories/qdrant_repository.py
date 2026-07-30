@@ -40,7 +40,7 @@ class QdrantRepository:
     """Repository for vector operations with Qdrant."""
     
     COLLECTION_NAME = "calligraphy_knowledge"
-    VECTOR_SIZE = 768  # sentence-transformers dimension
+    VECTOR_SIZE = 384  # sentence-transformers dimension
     
     def __init__(
         self,
