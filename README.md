@@ -16,7 +16,7 @@
 - 数据库：`MySQL 8`
 - ORM：`SQLAlchemy`
 - 服务运行：`Uvicorn`
-- 可扩展组件（架构预留）：`Qdrant`、`Neo4j`、`Redis`
+- 可扩展组件（架构预留）：`Neo4j`、`Redis`
 
 ## 目录结构
 
